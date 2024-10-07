@@ -1,0 +1,10 @@
+Collector:
+$crontab -e
+#choose 1 for /bin/nano
+insert "@reboot /home/pi/final_code_Collector.py"
+
+
+Intermediate:
+$crontab -e
+#choose 1 for /bin/nano
+insert "@reboot /home/pi/final_code_Intermediate.py"
