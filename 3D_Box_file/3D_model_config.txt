@@ -1,0 +1,4 @@
+To open the 3D_Box_file/GMMS_3D_Model.stp, it is neccessary the following steps:
+
+1 - A STEP file (.stp) software (SolidWorks, IMAGEtoSTL, ShareCAD, etc.);
+2 - Open the GMMS_3D_Model.stp file to view the 3D box assembled on the e-scooter central vein.
